@@ -9,3 +9,13 @@ body{
     text-align: center;
   
 }
+
+header {
+    border-bottom: 1px solid grey;
+
+}
+
+footer{
+    border-top: 1ox solid grey;
+    
+}
