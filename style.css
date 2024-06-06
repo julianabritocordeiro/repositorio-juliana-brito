@@ -5,7 +5,7 @@ h2{
 body{
     background-color: #305050;
     color: white;
-    font-family: Roboto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
   
 }
@@ -27,7 +27,7 @@ footer{
 
  .texto-inglês{ 
     font-style: italic;
-    
+
   }
  
  
